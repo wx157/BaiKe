@@ -38,4 +38,4 @@
 * [天气 API](https://www.tianqiapi.com/)
 * [Hitokoto 一言](https://hitokoto.cn/)
 
-<a title="SSL" target="_blank" href="http://www.cqbykj.top/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://bygzs.xyz/"></a>
+<a title="SSL" target="_blank" href="http://www.cqbykj.top/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://bygzs.xyz/">ba</a>
